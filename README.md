@@ -2,7 +2,7 @@ PLEASE NOTE: These assignments were part of a university curriculum and are not 
 ### Some code may be deprecated and/or no longer functioning due to the usage of the Sci-Kit Learn, Numpy, and Pandas Machine Learning Libraries
 
 Assigments:
-1) Linear Discrimnant Analysis
+1) Linear Discriminant Analysis
 2) Linear Regression
 3) Logistic Regression
 4) Multilayer Perceptron
